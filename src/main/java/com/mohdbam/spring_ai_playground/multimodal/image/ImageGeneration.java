@@ -1,4 +1,4 @@
-package com.mohdbam.spring_ai_playground.multimodal;
+package com.mohdbam.spring_ai_playground.multimodal.image;
 
 import java.util.Map;
 
